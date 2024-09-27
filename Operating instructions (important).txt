@@ -1,0 +1,5 @@
+Operating instructions (important)
+1. Download the file
+2. Run the file "CppApp.sln"
+3. Go to Settings -> 'common Properties' -> 'Startup Project' -> 'Single Startup project' and select "ConnectedApp" instead of "ImGuiLib" then Apply.
+4. Run the program.
